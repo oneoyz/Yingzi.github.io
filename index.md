@@ -1,4 +1,4 @@
-![welcome](https://github.com/oneoyz/inz/blob/master/inz.png)
+![welcome](https://github.com/oneoyz/oneoyz.github.io/blob/master/inz.pngg)
 
 ## Welcome to my GitHub Pages
 
