@@ -1,8 +1,4 @@
----
-layout: default
----
-
-![Branching](https://github.com/oneoyz/oneoyz.github.io/blob/master/banner.png)
+![Branching](https://github.com/oneoyz/oneoyz.github.io/blob/master/octocat.png)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
