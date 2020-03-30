@@ -1,4 +1,4 @@
-![banner](/oneoyz/oneoyz.github.io/blob/master/octocat.png?raw=true)
+![banner](www.raw.githubusercontent.com/oneoyz/oneoyz.github.io/blob/master/octocat.png?raw=true)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
